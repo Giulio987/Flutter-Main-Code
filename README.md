@@ -1,2 +1,2 @@
 # Flutter-Main-Code
-Raccolta dei file utilizzati durante le esercitazioni con flutter
+Collection of files used during the exercises to learn how to use flutter
